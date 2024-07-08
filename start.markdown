@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Something About Me"
 permalink: /about/intro
+---
 
 # 修订记录
 
